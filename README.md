@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **App Development**
 - 🤝 I’m looking for help with **SwiftUI**
 - 🌱 I’m currently learning **Essential Math for Data Science**
-- 💬 Ask me about **SOC, **
+- 💬 Ask me about **SOC, BurpSuite, Metasploit, Splunk**
 - 📫 How to reach me **https://t.me/nocaprc**
 - ⚡ Fun fact **Tabs > Spaces**
 
