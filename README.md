@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocaprc&theme=" alt="nocaprc" /></a> </p>
 
-- 🔭 I’m currently working on [Racetrack](https://github.com/SymmetrySyndicate/RaceTrack)
-- 👯 I’m looking to collaborate on **App Development**
-- 🤝 I’m looking for help with **SwiftUI**
-- 🌱 I’m currently learning **Essential Math for Data Science**
-- 💬 Ask me about **SOC, BurpSuite, Metasploit, Splunk**
-- 📫 How to reach me **https://t.me/nocaprc**
-- ⚡ Fun fact **Tabs > Spaces**
+> whoami
+nocaprc
+> finger nocaprc
+Login: prc     			Name: Offensive Pentesting Enthusiast
+Directory: /India        	Shell: /Undergrad Student
+[c0ldheat@protonmail.com] No Spam.
+Telegram: @nocaprc
 
 <div> <a href="https://twitter.com/pr0xc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/nocaprc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/nocaprc"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/pr0xc.png" alt="TryHackMe">
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
