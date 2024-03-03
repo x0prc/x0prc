@@ -5,13 +5,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocaprc&theme=" alt="nocaprc" /></a> </p>
 <br>
 
-<code>$ finger nocaprc 
+<code>$ finger x0prc 
 Login: pr0xc 
 Name: Offensive Pentester | Data Science Enthusiast 
 Directory: /India 
 Shell: /Undergrad Student 
 [c0ldheat@protonmail.com] No Spam. 
-Telegram: @nocaprc
+Telegram: @pr0xc
 </code>
 
 <br>
