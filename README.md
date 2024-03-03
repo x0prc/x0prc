@@ -1,18 +1,18 @@
-<h1 align="center">48656C6C6F21</h1>
+<h1 align="center">Hello There!</h1>
 <h3 align="center">Machine Learning | Cybersecurity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nocaprc&label=Profile%20views&color=0e75b6&style=flat" alt="nocaprc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nocaprc&theme=" alt="nocaprc" /></a> </p>
 <br>
 
-<code>$ finger x0prc 
-Login: pr0xc 
-Name: Offensive Pentester | Data Science Enthusiast 
-Directory: /India 
-Shell: /Undergrad Student 
-[c0ldheat@protonmail.com] No Spam. 
-Telegram: @pr0xc
-</code>
+<code>$ finger x0prc  
+Login: pr0xc  
+Name: Offensive Pentester | Data Science Enthusiast  
+Directory: /India  
+Shell: /Undergrad Student  
+[c0ldheat@protonmail.com] No Spam.  
+Telegram: @pr0xc  
+</code> 
 
 <br>
 <div> <a href="https://twitter.com/pr0xc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
