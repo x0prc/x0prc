@@ -20,10 +20,9 @@ Telegram: pr0xc
                    
 
 
-compiling projects
+currently working on
 ------------------
-Assembly, Kernel Programming
-Geospatial Analysis
-MERN Development
-Malware Analysis, Pentesting
+- Machine Learning in Quantitative Finance
+- Data Structures and Algorithms in Java
+- Research Paper Implementations
 
