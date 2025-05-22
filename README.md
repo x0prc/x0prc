@@ -6,7 +6,7 @@ pr0xc@proficious.local
 -----------------------
 OS: GNU/Linux
 Uptime: 248400 seconds  
-Description: Pentester | Data Science Enthusiast
+Description: Malware Reverse Engineering | Machine Learning
 Shell: /UndergradStudent
 Directory: /India
 Editors: vim, zed
@@ -22,7 +22,7 @@ Telegram: pr0xc
 
 currently working on
 ------------------
-- Machine Learning in Quantitative Finance
+- Infosecurity Tools
 - Data Structures and Algorithms in Java
 - Research Paper Implementations
 
