@@ -2,7 +2,7 @@
 pr0xc@proficious.local:~$ neofetch
 
    ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-   ┃   x0prc@proficious.local            ┃
+   ┃   x0prc@proficious.local             ┃
    ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
 OS:            GNU/Linux
