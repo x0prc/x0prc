@@ -1,3 +1,5 @@
+![G0VB0GQWAAAlWVV](https://github.com/user-attachments/assets/10353b07-91a9-44be-bf4d-97bd1f9842a3)
+
 ```console
 pr0xc@proficious.local:~$ neofetch
 
