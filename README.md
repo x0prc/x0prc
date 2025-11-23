@@ -21,4 +21,3 @@ Currently Working On:
   - Research Paper Implementations
 
 ```
-GIF Credits : [YUDHO_XYZ on X](https://x.com/YUDHO_XYZ)
