@@ -1,5 +1,3 @@
-![G0VB0GQWAAAlWVV](https://github.com/user-attachments/assets/10353b07-91a9-44be-bf4d-97bd1f9842a3)
-
 ```console
 pr0xc@proficious.local:~$ neofetch
 
@@ -22,13 +20,5 @@ Currently Working On:
   - DS & Algorithms in Java
   - Research Paper Implementations
 
-Featured Repos:
-  [notes]         github.com/x0prc/notes
-  [Dev]           github.com/x0prc/Dev
-  [HSC-2FA]       github.com/x0prc/HSC-2FA
-  [jangal.c]      github.com/x0prc/jangal.c
-  [tridrasil-go]  github.com/x0prc/tridrasil-go
-
-#   Minimal. Modular. Proficious.
 ```
 GIF Credits : [YUDHO_XYZ on X](https://x.com/YUDHO_XYZ)
