@@ -1,6 +1,6 @@
 # Hello! I am PRC.
 
-**Reverse Engineering | AI Security | QAC**
+**Reverse Engineering | Hardware Security | QAC**
 
 ## What I Do
 
